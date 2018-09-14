@@ -172,7 +172,6 @@ namespace DICode
         public void Apply()
         {
             Console.WriteLine(IGLocal.Apply());
-
         }
     }
 
